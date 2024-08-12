@@ -138,7 +138,7 @@ body {
 .winning-message button:hover {
   background-color: black;
   color: white;
-  border-color: white;
+  border-color: pink;
 }
 
 .winning-message.show {
